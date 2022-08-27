@@ -2,7 +2,7 @@ package com.cydeo.streampractice.model;
 
 import lombok.*;
 
-import javax.swing.plaf.synth.Region;
+
 
 @Getter
 @Setter
